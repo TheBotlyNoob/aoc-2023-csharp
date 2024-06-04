@@ -1,6 +1,2 @@
 image:
     file: gitpod.Dockerfile
-
-tasks:
-    - name: devenv services
-      command: devenv up
